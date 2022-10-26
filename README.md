@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kerenguim
+- 👀 I’m software engineering academic
+- 🌱 I’m currently learning python and data science
+- 📫 My email is kerenguim@gmail.com and my linkedin is https://www.linkedin.com/in/kerenguim/.
